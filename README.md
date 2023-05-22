@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonychablov&label=Profile%20views&color=0e75b6&style=flat" alt="anthonychablov" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-### Connect with me
 - [Website](https://www.anthonychablov.com/)
 - [LinkedIn]([https://www.linkedin.com/in/aryan-khurana-239684229/](https://www.linkedin.com/in/anthonychablov/))
 - [Email](aechablov@gmail.com)
