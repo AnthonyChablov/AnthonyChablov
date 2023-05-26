@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://github.com/AnthonyChablov/AnthonyChablov/assets/86855033/034aca54-56ef-4b4c-85dc-a254b185b8bf" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 -   :video_game: Currently a student at Seneca College, Looking for Roles in **Web Development**
 -   :monocle_face: Interested in Web Technologies **React, JavaScript, TypeScript, Html, CSS**
