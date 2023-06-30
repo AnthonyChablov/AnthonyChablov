@@ -6,7 +6,7 @@
 -   :monocle_face: Interested in Web Technologies **React, JavaScript, TypeScript, Html, CSS**
 -   :seedling: Currently learning **Three.js, WebGL and MindAR**
 -   :heart: Web Development and Open Source Software 
-
+ 
 - [Website](https://www.anthonychablov.com/)
 - [LinkedIn](https://www.linkedin.com/in/anthonychablov/)
 - [Email](aechablov@gmail.com)
