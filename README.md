@@ -1,4 +1,3 @@
-<img src="https://github.com/AnthonyChablov/AnthonyChablov/assets/86855033/034aca54-56ef-4b4c-85dc-a254b185b8bf" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 <h1>Hi! Im Anthony and I'm always learning new things!</h1>
 
