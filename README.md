@@ -1,5 +1,5 @@
 
-<h1>Hi! Im Anthony and I'm always learning new things!</h1>
+<h1>Hi! My name is Anthony and I am always learning new things!</h1>
 
 -   :video_game: Currently a student at Seneca College, Looking for Roles in **Web Development**
 -   :monocle_face: Interested in Web Technologies **React, JavaScript, TypeScript, C#, ASP.NET**
