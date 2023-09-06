@@ -5,7 +5,7 @@
 
 -   :video_game: Studied Computer Programming at Seneca College, Looking for Roles in **Web Development**
 -   :monocle_face: Interested in Web Technologies **React, JavaScript, TypeScript, C#, PHP, ASP.NET**
--   :seedling: Currently learning **Three.js, WebGL, PHP, Laravel**
+-   :seedling: Currently learning **PHP, Laravel**
 -   :heart: Web Development and Open Source Software  
  
 - [Website](https://www.anthonychablov.com/)
