@@ -4,8 +4,8 @@
 <h1>Hi! My name is Anthony and I am always learning new things!</h1>
 
 -   :video_game: Studied Computer Programming at Seneca College, Looking for Roles in **Web Development**
--   :monocle_face: Interested in Web Technologies **React, JavaScript, TypeScript, C#, PHP, ASP.NET**
--   :seedling: Currently learning **PHP, Laravel**
+-   :monocle_face: Interested in Web Technologies **React, JavaScript, TypeScript, C#, ASP.NET**
+-   :seedling: Currently learning **C# and ASP.NET **
 -   :heart: Web Development and Open Source Software  
  
 - [Website](https://www.anthonychablov.com/)
