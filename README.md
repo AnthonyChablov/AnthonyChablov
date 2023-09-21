@@ -1,5 +1,5 @@
 
-![1693421242844](https://github.com/AnthonyChablov/AnthonyChablov/assets/86855033/50bc5595-b72d-49b2-88b2-cc16c636ef68)
+<img width="878" alt="bannerac" src="https://github.com/AnthonyChablov/AnthonyChablov/assets/86855033/82416889-ad9a-4333-a455-672b91aaed4a">
 
 <h1>Hi! My name is Anthony and I am always learning new things!</h1>
 
