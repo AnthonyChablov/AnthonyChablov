@@ -5,7 +5,7 @@
 
 -   :video_game: Software Developer Looking for Roles in **Web Development**
 -   :monocle_face: Interested in Web Technologies **React, JavaScript, TypeScript, C#, ASP.NET**
--   :seedling: Currently learning **Flutter, Dart, Cloud Computing**
+-   :seedling: Currently learning **Flutter, Dart, Cloud Computing, AWS**
 -   :heart: Web Development and Open Source Software  
  
 - [Website](https://www.anthonychablov.com/)
