@@ -4,7 +4,7 @@
 <h1>Hi! My name is Anthony and I am always learning new things!</h1>
 
 -   :video_game: Software Developer Looking for Roles in **Web Development**
--   :monocle_face: Interested in Web Technologies **React, JavaScript, TypeScript, C#, ASP.NET**
+-   :monocle_face: Interested in Web Technologies **React, Next, Node, Express, JavaScript, TypeScript, C#, ASP.NET**
 -   :seedling: Currently learning **Flutter, Dart, Cloud Computing, AWS**
 -   :heart: Web Development and Open Source Software  
  
