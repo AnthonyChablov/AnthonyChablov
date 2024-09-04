@@ -5,7 +5,7 @@
 
 -   :video_game: Software Developer Looking for Roles in **Web Development**
 -   :monocle_face: Interested in Web Technologies **React.js, Next.js, Node.js, Express.js, JavaScript, TypeScript, Solidity**
--   :seedling: Currently learning **Web3, Smart Contracts, Ethereum**
+-   :seedling: Currently learning **AWS and Cloud Computing**
 -   :heart: Web Development and Open Source Software  
  
 - [Website](https://www.anthonychablov.com/)
