@@ -4,8 +4,8 @@
 <h1>Hi! My name is Anthony and I am a Full-stack Developer!</h1>
 
 -   :video_game: Software Developer Looking for Roles in **Web Development**
--   :monocle_face: Interested in Web Technologies **React.js, Next.js, Node.js, Express.js, JavaScript, TypeScript, Solidity **
--   :seedling: Currently learning **Shopify, AWS, GCP, Cloud Computing**
+-   :monocle_face: Interested in Web Technologies **React.js, Next.js, Node.js, Express.js, JavaScript, TypeScript, Shopify **
+-   :seedling: Currently learning **AWS, GCP, Cloud Computing**
 -   :heart: Web Development and Open Source Software  
  
 - [Website](https://www.anthonychablov.com/)
