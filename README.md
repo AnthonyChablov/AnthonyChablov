@@ -1,5 +1,5 @@
 
-<img width="878" alt="bannerac" src="https://github.com/AnthonyChablov/AnthonyChablov/assets/86855033/82416889-ad9a-4333-a455-672b91aaed4a">
+<img width="878" alt="bannerac" src="https://github.com/user-attachments/assets/27aa7856-f08a-4cdd-8f4d-a73282168ab5">
 
 <h1>Hi! My name is Anthony and I am a Full-stack Developer!</h1>
 
