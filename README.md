@@ -23,7 +23,8 @@ const anthony = {
 
 ### 🚀 What I Do
 
-I build engaging, responsive, and user-friendly web applications with clean and maintainable code. My experience spans from crafting pixel-perfect UIs to architecting robust backend services.
+I'm a Full Stack Developer with experience in building modern web applications. I specialize in using TypeScript, React, and Next.js for the frontend, ensuring dynamic, pixel-perfect and responsive user interfaces.
+On the backend, I leverage Express.js and Node.js to build scalable and efficient APIs, while also working with MongoDB for flexible data storage solutions.
 
 ### 🛠️ Tech Stack
 
