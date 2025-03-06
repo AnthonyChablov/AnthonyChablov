@@ -1,7 +1,9 @@
 # 👋 Hey there, I'm Anthony!
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/27aa7856-f08a-4cdd-8f4d-a73282168ab5" width="800">
+<div align="center">  
+  <a href="https://www.anthonychablov.com">
+    <img src="https://github.com/user-attachments/assets/27aa7856-f08a-4cdd-8f4d-a73282168ab5" width="800">
+  </a>
 </div>
 
 ## 💻 Full-Stack Developer | Web Enthusiast | Open Source Advocate
