@@ -16,7 +16,7 @@ const anthony = {
     frontend: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML/CSS"],
     backend: ["Node.js", "Express.js", "RESTful APIs"],
     databases: ["MongoDB", "SQL"],
-    tools: ["Git", "Docker", "Jest", "Cypress"]
+    tools: ["Git", "GitHub", "Docker", "Jest", "Cypress"]
   },
   currentlyLearning: ["AWS", "GCP", "Cloud Computing"],
   passions: ["Building intuitive UIs", "Open Source", "Clean Code"]
