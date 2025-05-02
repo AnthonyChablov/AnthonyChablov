@@ -43,10 +43,11 @@ On the backend, I leverage Express.js and Node.js to build scalable and efficien
 
 ### 🌱 Currently Exploring
 
-I'm diving deep into cloud technologies to scale applications effectively:
+Currently I am deep diving into: 
+- Data Streaming
+- Geographic Information Systems (GIS) & Geo Spatial Data
 - Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Cloud Architecture & DevOps
+- Cloud Architecture 
 
 ### 📫 Let's Connect!
 
