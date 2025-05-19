@@ -15,7 +15,7 @@ const anthony = {
   technologies: {
     frontend: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML/CSS"],
     backend: ["Node.js", "Express.js", "RESTful APIs"],
-    databases: ["MongoDB", "SQL"],
+    databases: ["MongoDB", "SQL", "Postgres"],
     tools: ["Git", "GitHub", "Docker", "Jest", "Cypress"]
   },
   currentlyLearning: ["AWS", "GCP", "Cloud Computing"],
